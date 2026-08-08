@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Alphaomega4748/Leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Alphaomega4748/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0845-longest-mountain-in-array](https://github.com/Alphaomega4748/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Alphaomega4748/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Alphaomega4748/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0845-longest-mountain-in-array](https://github.com/Alphaomega4748/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Alphaomega4748/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Enumeration
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Alphaomega4748/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Alphaomega4748/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
