@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Alphaomega4748/Leetcode/tree/master/0724-find-pivot-index) |
 | [0845-longest-mountain-in-array](https://github.com/Alphaomega4748/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Alphaomega4748/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/1140-stone-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Alphaomega4748/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0845-longest-mountain-in-array](https://github.com/Alphaomega4748/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [1140-stone-game-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Alphaomega4748/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Enumeration
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/1140-stone-game-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -72,4 +75,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Alphaomega4748/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Alphaomega4748/Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Alphaomega4748/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
