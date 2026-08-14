@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Alphaomega4748/Leetcode/tree/master/0733-flood-fill) |
 | [0845-longest-mountain-in-array](https://github.com/Alphaomega4748/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Alphaomega4748/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/Alphaomega4748/Leetcode/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/1140-stone-game-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Alphaomega4748/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Alphaomega4748/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Alphaomega4748/Leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Alphaomega4748/Leetcode/tree/master/0994-rotting-oranges) |
 | [1609-even-odd-tree](https://github.com/Alphaomega4748/Leetcode/tree/master/1609-even-odd-tree) |
 ## Binary Tree
 |  |
@@ -162,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Alphaomega4748/Leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Alphaomega4748/Leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
