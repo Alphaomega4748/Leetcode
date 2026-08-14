@@ -1,44 +1,45 @@
 class Solution {
 public:
     vector<vector<int>> floodFill(vector<vector<int>>& image,
-                                  int sr, int sc,
-                                  int color) {
+                                   int sr, int sc, int color) {
 
         int n = image.size();
         int m = image[0].size();
 
-        int initialColor = image[sr][sc];
+        int oldColor = image[sr][sc];
 
-        // If the color is already same
-        if(initialColor == color)
+        if (oldColor == color) {
             return image;
+        }
 
-        queue<pair<int,int>> q;
+        queue<pair<int, int>> q;
 
         q.push({sr, sc});
-
         image[sr][sc] = color;
 
         int dx[] = {-1, 0, 1, 0};
         int dy[] = {0, 1, 0, -1};
 
-        while(!q.empty()) {
+        while (!q.empty()) {
 
-            auto [row, col] = q.front();
+            int x = q.front().first;
+            int y = q.front().second;
             q.pop();
 
-            // Visit all 4 neighbours
-            for(int i = 0; i < 4; i++) {
+            for (int i = 0; i < 4; i++) {
 
-                int nRow = row + dx[i];
-                int nCol = col + dy[i];
+                int newX = x + dx[i];
+                int newY = y + dy[i];
 
-                if(nRow >= 0 && nRow < n &&
-                   nCol >= 0 && nCol < m &&
-                   image[nRow][nCol] == initialColor) {
+                if (newX >= 0 && newX < n &&
+                    newY >= 0 && newY < m) {
 
-                    image[nRow][nCol] = color;
-                    q.push({nRow, nCol});
+                    if (image[newX][newY] == oldColor) {
+
+                        image[newX][newY] = color;
+
+                        q.push({newX, newY});
+                    }
                 }
             }
         }
