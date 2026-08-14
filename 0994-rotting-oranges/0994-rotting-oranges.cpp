@@ -2,59 +2,68 @@ class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
 
-        int m = grid.size();
-        int n = grid[0].size();
+        int n = grid.size();
+        int m = grid[0].size();
 
-        queue<pair<int, int>> rotten;
-        int total = 0;
-        int count = 0;
-        int minutes = 0;
+        queue<pair<int,int>> q;
 
-        // Count total oranges and push rotten oranges
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
+        int fresh = 0;
 
-                if (grid[i][j] != 0)
-                    total++;
+        // Rotten oranges queue mein
+        // Fresh oranges count
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < m; j++) {
 
-                if (grid[i][j] == 2)
-                    rotten.push({i, j});
+                if(grid[i][j] == 2) {
+                    q.push({i, j});
+                }
+                else if(grid[i][j] == 1) {
+                    fresh++;
+                }
             }
         }
 
-        int dx[] = {0, 0, 1, -1};
-        int dy[] = {1, -1, 0, 0};
+        int mint = 0;
 
-        while (!rotten.empty()) {
+        int dr[] = {-1, 0, 1, 0};
+        int dc[] = {0, 1, 0, -1};
 
-            int size = rotten.size();
-            count += size;
+        while(!q.empty() && fresh > 0) {
 
-            while (size--) {
+            int size = q.size();
 
-                auto [x, y] = rotten.front();
-                rotten.pop();
+            for(int i = 0; i < size; i++) {
 
-                for (int i = 0; i < 4; i++) {
+                int x = q.front().first;
+                int y = q.front().second;
 
-                    int nx = x + dx[i];
-                    int ny = y + dy[i];
+                q.pop();
 
-                    if (nx < 0 || ny < 0 || nx >= m || ny >= n)
-                        continue;
+                for(int k = 0; k < 4; k++) {
 
-                    if (grid[nx][ny] != 1)
-                        continue;
+                    int nRow = x + dr[k];
+                    int nCol = y + dc[k];
 
-                    grid[nx][ny] = 2;
-                    rotten.push({nx, ny});
+                    if(nRow >= 0 && nRow < n &&
+                       nCol >= 0 && nCol < m &&
+                       grid[nRow][nCol] == 1) {
+
+                        grid[nRow][nCol] = 2;
+
+                        fresh--;
+
+                        q.push({nRow, nCol});
+                    }
                 }
             }
 
-            if (!rotten.empty())
-                minutes++;
+            mint++;
         }
 
-        return (count == total) ? minutes : -1;
+        if(fresh > 0) {
+            return -1;
+        }
+
+        return mint;
     }
 };
