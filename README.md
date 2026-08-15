@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Alphaomega4748/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Alphaomega4748/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Alphaomega4748/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Alphaomega4748/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/1140-stone-game-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Alphaomega4748/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Alphaomega4748/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Alphaomega4748/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Alphaomega4748/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Alphaomega4748/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Alphaomega4748/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1609-even-odd-tree](https://github.com/Alphaomega4748/Leetcode/tree/master/1609-even-odd-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Alphaomega4748/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Alphaomega4748/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0547-number-of-provinces](https://github.com/Alphaomega4748/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Alphaomega4748/Leetcode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Alphaomega4748/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -185,12 +188,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Alphaomega4748/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Alphaomega4748/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Alphaomega4748/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Alphaomega4748/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Alphaomega4748/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Alphaomega4748/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Alphaomega4748/Leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Alphaomega4748/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
