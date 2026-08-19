@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Alphaomega4748/Leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [1386-cinema-seat-allocation](https://github.com/Alphaomega4748/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Alphaomega4748/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Array
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Alphaomega4748/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Alphaomega4748/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/Alphaomega4748/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Alphaomega4748/Leetcode/tree/master/1563-stone-game-v) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Alphaomega4748/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2029-stone-game-ix](https://github.com/Alphaomega4748/Leetcode/tree/master/2029-stone-game-ix) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Alphaomega4748/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Alphaomega4748/Leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Alphaomega4748/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Alphaomega4748/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/Alphaomega4748/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Alphaomega4748/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1386-cinema-seat-allocation](https://github.com/Alphaomega4748/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Alphaomega4748/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Alphaomega4748/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Alphaomega4748/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
