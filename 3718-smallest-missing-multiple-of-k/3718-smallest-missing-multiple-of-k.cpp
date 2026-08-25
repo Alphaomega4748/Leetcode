@@ -9,7 +9,7 @@ public:
 
         int x = k;
 
-        while(st.find(x) != st.end()){
+        while(st.find(x) != st.end()){ // jbb tak set mai found h element tbb tk ye loop chalega 
               x += k;
         }
 
