@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Alphaomega4748/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Alphaomega4748/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Alphaomega4748/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Alphaomega4748/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Alphaomega4748/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Alphaomega4748/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Alphaomega4748/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Alphaomega4748/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Alphaomega4748/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Alphaomega4748/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
