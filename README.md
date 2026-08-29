@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Alphaomega4748/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2029-stone-game-ix](https://github.com/Alphaomega4748/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Alphaomega4748/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Alphaomega4748/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Alphaomega4748/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Alphaomega4748/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Alphaomega4748/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Alphaomega4748/Leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Alphaomega4748/Leetcode/tree/master/0088-merge-sorted-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Alphaomega4748/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Alphaomega4748/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Alphaomega4748/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Alphaomega4748/Leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Alphaomega4748/Leetcode/tree/master/1020-number-of-enclaves) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Alphaomega4748/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |
