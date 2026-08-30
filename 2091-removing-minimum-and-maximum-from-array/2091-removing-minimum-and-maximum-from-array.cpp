@@ -17,9 +17,6 @@ public:
         int right = max(mn, mx);
 
         return min({
-            right + 1,          // both from left
-            n - left,           // both from right
-            left + 1 + n - right // one from each side
-        });
+            right + 1, n - left, left + 1 + n - right});
     }
 };
