@@ -16,7 +16,6 @@ public:
         int left = min(mn, mx);
         int right = max(mn, mx);
 
-        return min({
-            right + 1, n - left, left + 1 + n - right});
+        return min({ right + 1, n - left, left + 1 + n - right});
     }
 };
