@@ -1,0 +1,33 @@
+class Solution {
+public:
+    int minimumDeletions(vector<int>& nums) {
+        int n = nums.size();
+
+        int Max = INT_MIN;
+        int Min = INT_MAX;
+
+        int maxIndex = -1;
+        int minIndex = -1;
+
+        for(int i = 0; i < n; i++) {
+            if(nums[i] > Max) {
+                Max = nums[i];
+                maxIndex = i;
+            }
+
+            if(nums[i] < Min) {
+                Min = nums[i];
+                minIndex = i;
+            }
+        }
+
+        int left = min(minIndex, maxIndex);
+        int right = max(minIndex, maxIndex);
+
+        int option1 = right + 1;
+        int option2 = n - left;
+        int option3 = (left + 1) + (n - right);
+
+        return min({option1, option2, option3});
+    }
+};
