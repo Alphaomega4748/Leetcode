@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Alphaomega4748/Leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Alphaomega4748/Leetcode/tree/master/0088-merge-sorted-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Alphaomega4748/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Alphaomega4748/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Alphaomega4748/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Alphaomega4748/Leetcode/tree/master/0014-longest-common-prefix) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Alphaomega4748/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Alphaomega4748/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Alphaomega4748/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Alphaomega4748/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Alphaomega4748/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Alphaomega4748/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Alphaomega4748/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Alphaomega4748/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Alphaomega4748/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Alphaomega4748/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1386-cinema-seat-allocation](https://github.com/Alphaomega4748/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Alphaomega4748/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Alphaomega4748/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Alphaomega4748/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Alphaomega4748/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
