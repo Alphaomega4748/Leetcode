@@ -11,7 +11,8 @@
  */
 class Solution {
 public:
-    vector<int> inorderTraversal(TreeNode* root) {
+
+vector<int> inorderTraversal(TreeNode* root) {
 
     vector<int> ans;
     stack<TreeNode*> st;
@@ -38,4 +39,4 @@ public:
 
     return ans;
 }
-};
+    };
