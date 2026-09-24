@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Alphaomega4748/Leetcode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/Alphaomega4748/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alphaomega4748/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Alphaomega4748/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Alphaomega4748/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Alphaomega4748/Leetcode/tree/master/0283-move-zeroes) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Alphaomega4748/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Alphaomega4748/Leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Alphaomega4748/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Alphaomega4748/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Alphaomega4748/Leetcode/tree/master/0268-missing-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Alphaomega4748/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Alphaomega4748/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Alphaomega4748/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Alphaomega4748/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Alphaomega4748/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Alphaomega4748/Leetcode/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/Alphaomega4748/Leetcode/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Alphaomega4748/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Alphaomega4748/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Alphaomega4748/Leetcode/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -441,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Alphaomega4748/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Alphaomega4748/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
