@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Alphaomega4748/Leetcode/tree/master/0125-valid-palindrome) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Alphaomega4748/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Alphaomega4748/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Alphaomega4748/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Alphaomega4748/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Alphaomega4748/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Alphaomega4748/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Alphaomega4748/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Alphaomega4748/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Alphaomega4748/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Alphaomega4748/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## DP on Trees
 |  |
 | ------- |
@@ -474,4 +476,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Alphaomega4748/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Alphaomega4748/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
