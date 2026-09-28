@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Alphaomega4748/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Alphaomega4748/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Alphaomega4748/Leetcode/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/Alphaomega4748/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/Alphaomega4748/Leetcode/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/Alphaomega4748/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Alphaomega4748/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Alphaomega4748/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Alphaomega4748/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/Alphaomega4748/Leetcode/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Alphaomega4748/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/Alphaomega4748/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1140-stone-game-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Alphaomega4748/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
