@@ -4,7 +4,6 @@ public:
         
         sort(nums.begin(), nums.end());
         int n = nums.size();
-        int i = 0;
         int Csum = nums[0] + nums[1] + nums[2];
 
         for(int i =0; i<n-2; i++){
