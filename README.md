@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Alphaomega4748/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Alphaomega4748/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Alphaomega4748/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Alphaomega4748/Leetcode/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/Alphaomega4748/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Alphaomega4748/Leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Alphaomega4748/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Alphaomega4748/Leetcode/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/Alphaomega4748/Leetcode/tree/master/0561-array-partition) |
 | [1200-minimum-absolute-difference](https://github.com/Alphaomega4748/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Alphaomega4748/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Alphaomega4748/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Alphaomega4748/Leetcode/tree/master/0179-largest-number) |
+| [0561-array-partition](https://github.com/Alphaomega4748/Leetcode/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Alphaomega4748/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Alphaomega4748/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Alphaomega4748/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -647,4 +650,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Alphaomega4748/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Alphaomega4748/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
