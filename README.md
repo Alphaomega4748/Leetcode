@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Alphaomega4748/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Alphaomega4748/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Alphaomega4748/Leetcode/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/Alphaomega4748/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Alphaomega4748/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Alphaomega4748/Leetcode/tree/master/0179-largest-number) |
 | [0301-remove-invalid-parentheses](https://github.com/Alphaomega4748/Leetcode/tree/master/0301-remove-invalid-parentheses) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Alphaomega4748/Leetcode/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/Alphaomega4748/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Alphaomega4748/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Alphaomega4748/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Alphaomega4748/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Alphaomega4748/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Alphaomega4748/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Alphaomega4748/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
