@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Alphaomega4748/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Alphaomega4748/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Alphaomega4748/Leetcode/tree/master/0561-array-partition) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Alphaomega4748/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Alphaomega4748/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Alphaomega4748/Leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Alphaomega4748/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
