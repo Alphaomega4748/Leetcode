@@ -1,26 +1,27 @@
 class Solution {
 public:
-    int solve(int i , int l , vector<int>&nums, vector<int> & dp){
-        if(i<l) return 0;
-        if(i == l) return nums[i];
 
-        if(dp[i] != -1) return dp[i];
+    int solve (vector<int> &a){
+        int n = a.size();
 
-        int take = nums[i] + solve(i-2, l, nums, dp);
-        int skip = solve(i-1, l, nums, dp);
+        if(n ==1 ) return a[0];
 
-        return dp[i] = max(take, skip);
+        vector<int> dp(n);
+        dp[0] = a[0];
+        dp[1] = max(a[0], a[1]);
+
+        for(int i = 2; i < n; i++){
+                dp[i] = max(dp[i-1], a[i] + dp[i-2]);
+        }
+        return dp[n-1];
+
     }
     int rob(vector<int>& nums) {
         int n = nums.size();
-        if(n == 1) return nums[0];
+        if(n==1) return nums[0];
+        vector<int> a(nums.begin(), nums.end()-1);
+        vector<int> b(nums.begin()+1, nums.end());
 
-        vector<int> dp1(n, -1);
-        vector<int> dp2(n,-1);
-
-        int caseA = solve(n-2, 0, nums, dp1);
-        int caseB = solve(n-1, 1, nums, dp2);
-
-        return max(caseA, caseB);
+        return max(solve(a), solve(b));
     }
 };
